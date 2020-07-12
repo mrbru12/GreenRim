@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>GreenRim</name>
+	<author>Brunin</author>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+	</supportedVersions>
+	<packageId>Brunin.GreenRim</packageId>
+	<description>GreenRim is a simple mod that increases RimWorld's vegetation growth speed and plants abundance in some biomes, making the world feel more immersive, cozy and fresh!</description>
+</ModMetaData>
